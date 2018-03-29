@@ -1,0 +1,15 @@
+.icon{
+    color: white;
+    top: inherit;
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding: 1.4rem;
+    display: block;
+}
+.icon-soundcloud{
+        background: #33373b;
+}
+.txt_orange:hover{
+ text-decoration: none;
+    color: darkorange;
+}
